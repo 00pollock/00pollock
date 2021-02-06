@@ -19,8 +19,8 @@
 👔 [linkedin][linkedin]
 
 
-[website]: https://syntacticgeorge.dev
-[twitter]: https://twitter.com/syntacticgeorge
-[instagram]: https://instagram.com/syntacticgeorge
-[linkedin]: https://linkedin.com/in/syntacticgeorge
-[npm]: https://npmjs.com/~syntacticgeorge
+[website]: https://00ondesign.com
+[twitter]: https://twitter.com/00Pollock
+[instagram]: https://instagram.com/00pollock
+[linkedin]: https://linkedin.com/in/00pollock
+[npm]: https://npmjs.com/~00pollock
